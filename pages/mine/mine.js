@@ -97,7 +97,7 @@ Page({
 	},
 	contactTap: function () {
 		wx.makePhoneCall({
-			phoneNumber: '13553835046'
+			phoneNumber: '110'
 		})
 	}
 });
